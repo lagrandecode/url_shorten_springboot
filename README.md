@@ -203,6 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - seunogunmolufirst1@gmail.com
 
-Project Link: [https://github.com/yourusername/url-shortener](https://github.com/yourusername/url-shortener) 
+Project Link: [https://github.com/lagrandecode/url_shorten_springboot.git](https://github.com/lagrandecode/url_shorten_springboot.git) 
